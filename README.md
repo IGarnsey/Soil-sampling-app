@@ -2,6 +2,9 @@
 
 <html>
 <body>
+<h2>Request data deletion</h2>
+<p>This app collects data on location coordinates and soil assessment criteria that is submitted by users. The data is kept as long as it is useful to ongoing projects. To request your data is deleted, please email izzy.garnsey@farmcarbontoolkit.org.uk and list the locations that you would like deleted.</p>
+ 
 <h2>Privacy Policy</h2>
 <p>Isabel Garnsey built the FCT Soil Sampling app as a free app. This SERVICE is provided by Farm Carbon Toolkit at no cost and is intended
     for use as is.</p>
